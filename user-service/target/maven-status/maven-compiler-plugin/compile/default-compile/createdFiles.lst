@@ -1,0 +1,10 @@
+com\my\app\user\config\CorsConfig.class
+com\my\app\user\model\User.class
+com\my\app\user\controller\UserController.class
+com\my\app\user\model\Animal.class
+com\my\app\user\config\AwsS3Config.class
+com\my\app\user\config\CorsConfig$1.class
+com\my\app\user\dao\AnimalRepository.class
+com\my\app\user\UserServiceApplication.class
+com\my\app\user\service\UserService.class
+com\my\app\user\service\AnimalService.class
